@@ -1,0 +1,42 @@
+Start testing: Nov 22 19:50 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: FiguresTests
+1/1 Test: FiguresTests
+Command: "C:/Lobovikov/Programming/labs/OOP/lab5/build/runTests.exe"
+Directory: C:/Lobovikov/Programming/labs/OOP/lab5/build
+"FiguresTests" start time: Nov 22 19:50 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Lobovikov\Programming\labs\OOP\lab5\build\_deps\googletest-src\googletest\src\gtest_main.cc
+[==========] Running 6 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from ChunkMemoryResourceTest
+[ RUN      ] ChunkMemoryResourceTest.MemoryReuse
+[       OK ] ChunkMemoryResourceTest.MemoryReuse (0 ms)
+[ RUN      ] ChunkMemoryResourceTest.CleanupOnDestruction
+[       OK ] ChunkMemoryResourceTest.CleanupOnDestruction (0 ms)
+[----------] 2 tests from ChunkMemoryResourceTest (0 ms total)
+
+[----------] 4 tests from VectorTest
+[ RUN      ] VectorTest.IntVector
+[       OK ] VectorTest.IntVector (0 ms)
+[ RUN      ] VectorTest.ComplexType
+[       OK ] VectorTest.ComplexType (0 ms)
+[ RUN      ] VectorTest.Iterator
+[       OK ] VectorTest.Iterator (0 ms)
+[ RUN      ] VectorTest.MemoryResourceUsage
+[       OK ] VectorTest.MemoryResourceUsage (0 ms)
+[----------] 4 tests from VectorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"FiguresTests" end time: Nov 22 19:50 RTZ 2 (çèìà)
+"FiguresTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 22 19:50 RTZ 2 (çèìà)
